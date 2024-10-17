@@ -57,7 +57,7 @@
   },
   "devDependencies": {
     "@eslint-community/eslint-plugin-eslint-comments": "^4.4.0",
-    "@eslint/markdown": "^6.2.0",
+    "@eslint/markdown": "^6.2.1",
     "@prettier/plugin-xml": "^3.4.1",
     "@stacksjs/cli": "^0.65.0",
     "@stacksjs/development": "^0.65.0",
